@@ -1,2 +1,2 @@
 # Api PHP Native
-Menbuat simpel API dengan PHP native
+Membuat API simpel dengan PHP native
